@@ -1,5 +1,5 @@
-def count (start_num):
+def test_counter (start_num):
     start_num += start_num
     return start_num
 
-print(count(2))
+print(test_counter(2))
